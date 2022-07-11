@@ -14,6 +14,18 @@
  - Please, if you have something urgent to talk to us, visit our <a href="https://github.com/Syntax-Developers">Organization page</a> and contact us.
  - If you want to donate to this project, please <a href="https://github.com/Syntax-Developers">contact us</a>.
  
+ 
+ ## Summary
+ - [Installation](#installation)
+ - [Technologies](#technologies)
+ - [Compatible operating systems](#compatible-operating-systems)
+ - [Running the program](#running-the-program)
+ - [How it works?](#how-it-works)
+ - [Examples](#examples)
+ - [Creators](#creators)
+ - [License](#license)
+ - [Specific Project Details](#specific-project-details)
+ 
  ## Installation
  ```git-clone https://github.com/Gustavo2022003/Nickname-generator.git```
  
@@ -28,7 +40,7 @@
   <img style="height: 50px;" src="https://img.shields.io/badge/Python-3.x-blueviolet?style=flat-square&logo=Python&labelColor=3d3d3d&logoColor=white&link=https://www.python.org/&link=https://www.python.org/">
 </p>
 
-## compatible operating systems
+## Compatible operating systems
 <p>
  <img style="height: 35px;" src="https://img.shields.io/badge/Windows-0077B5?style=for-the-badge&logo=windows&logoColor=white">
  <img style="height: 35px;" src="https://img.shields.io/badge/Ubuntu-fc9723?style=for-the-badge&logo=ubuntu&logoColor=white">
@@ -71,3 +83,21 @@ After those two steps the program will generate some nicknames based in what you
 ## License
 
 <a target="_blank" href="https://choosealicense.com/licenses/mit/">MIT</a>
+
+## Specific Project Details
+
+- Specification of the system from which the program was made:
+
+> Operatioal System: Linux Ubuntu 22.04 LTS
+
+> RAM: 8 GB DDR4
+
+> Processor: Intel Core i5-10400F
+
+> Processor Cores: 6
+
+> Threads: 12
+
+> Python Version: 3.10.4
+
+
