@@ -7,7 +7,7 @@
  A program that can generate a new nickname for you!
  
  ## Before we continue...
- - Please if you have any idea or feedback you want to share, subscribe into our Discussions page!
+ - Please if you have any idea, feedback, bug report or want to join the collaborators, subscribe into our <a href="https://github.com/Gustavo2022003/Nickname-generator/discussions">Dicussions</a> page!
  
  ## Installation
  ```git-clone https://github.com/Gustavo2022003/Nickname-generator.git```
