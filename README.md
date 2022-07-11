@@ -6,8 +6,13 @@
 </p>
  A program that can generate a new nickname for you!
  
- ## Before we continue...
- - Please if you have any idea, feedback, bug report or want to join the collaborators, subscribe into our <a href="https://github.com/Gustavo2022003/Nickname-generator/discussions">Dicussions</a> page!
+ ## Before you continue...
+ - If you are having any issue trying to run this program, please read the entire README.md, and if you are still getting difficulties to run, <a href="https://github.com/Syntax-Developers">contact us</a>.
+ - Please if you have any idea, feedback, bug report or want to join the collaborators, subscribe into our <a href="https://github.com/Gustavo2022003/Nickname-generator/discussions">Dicussions</a> page or contact the administrators!
+ - The administrators regularly are in the <a href="https://github.com/Gustavo2022003/Nickname-generator/discussions">Dicussions</a> page.
+ - Admins take 24-48h to answer any question found on the <a href="https://github.com/Gustavo2022003/Nickname-generator/discussions">Dicussions</a> page. If you do not receive a response in time, please contact us through our organization: <a href="https://github.com/Syntax-Developers">here</a>.
+ - Please, if you have something urgent to talk to us, visit our <a href="https://github.com/Syntax-Developers">Organization page</a> and contact us.
+ - If you want to donate to this project, please <a href="https://github.com/Syntax-Developers">contact us</a>.
  
  ## Installation
  ```git-clone https://github.com/Gustavo2022003/Nickname-generator.git```
