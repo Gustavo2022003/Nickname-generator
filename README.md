@@ -1,3 +1,5 @@
+<img src="https://img.shields.io/badge/Version-v0.1alpha-blueviolet?style=flat-square">
+
 <p>
  <img style="height: 40px" src="img/custombadge.svg">
  <img style="height: 40px" src="https://forthebadge.com/images/badges/built-with-love.svg">
@@ -15,7 +17,7 @@
 ## technologies
 ### We recommend Python 3.10.4 or above to run this program, otherwise you can have some issues!
 <p>
-  <img src="https://img.shields.io/badge/Python-4ea6d9?style=for-the-badge&logo=python&logoColor=white">
+  <img style="height: 50px;" src="https://img.shields.io/badge/Python-3.x-blueviolet?style=flat-square&logo=Python&labelColor=3d3d3d&logoColor=white&link=https://www.python.org/&link=https://www.python.org/">
 </p>
 
 ## compatible operating systems
