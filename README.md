@@ -13,6 +13,7 @@
 </p>
  
 ## technologies
+### We recommend Python 3.10.4 or above to run this program, otherwise you can have some issues!
 <p>
   <img src="https://img.shields.io/badge/Python-4ea6d9?style=for-the-badge&logo=python&logoColor=white">
 </p>
@@ -23,3 +24,12 @@
  <img style="height: 35px;" src="https://img.shields.io/badge/Ubuntu-fc9723?style=for-the-badge&logo=ubuntu&logoColor=white">
  <img style="height: 35px;" src="https://img.shields.io/badge/MacOS-212121?style=for-the-badge&logo=Apple&logoColor=white">
 </p>
+
+----
+
+## Running the program
+1) Open the ```.../Nickname-generator``` folder in your terminal
+2) Type: 
+```
+python3 main.py
+```
