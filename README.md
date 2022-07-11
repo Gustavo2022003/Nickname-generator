@@ -61,3 +61,7 @@ After those two steps the program will generate some nicknames based in what you
   <p>Example 2</p>
   <img src="img/example2.png">
 </p>
+
+# Creators
+
+<a src="https://github.com/Gustavo2022003"><img style="width: 80px;" src="https://avatars.githubusercontent.com/u/54781049?v=4"></a>
