@@ -11,7 +11,7 @@ while True:
     if block_break: # If the user wants to break out of the loop
         break
     try:
-        user_input = input("Would you suggest a specific word?\nYes or No: ")
+        user_input = input("Would you like to suggest a specific word?\nYes or No: ")
         if user_input == 'yes' or user_input == 'Yes' or user_input == 'y' or user_input == 'Y':
             try: 
                 specific_word = str(input("Please type the word:\n"))
