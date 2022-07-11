@@ -33,3 +33,21 @@
 ```
 python3 main.py
 ```
+## How it works?
+
+When you execute the program, it will show this message: "Would you like to suggest a specific word?"
+it means that you can choose one or more words to add into your nickname. You can refuse it.
+
+Then after the program ask you if you want to add some words or not in the nickname, it will ask if you want to suggest any number
+to put in too ("would you like to add some numbers?")
+
+After those two steps the program will generate some nicknames based in what you preferences.
+
+### Examples:
+
+<p>
+  <p>Example 1</p>
+  <img src="img/example1.png">
+  <p>Example 2</p>
+  <img src="img/example2.png">
+</p>
