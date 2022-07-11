@@ -37,7 +37,7 @@ def generator_nickname(NSL_game, word, num):
         count = 0
         while count < len(NSL_game):
             count += 1
-            pre_load = f"{choice(word)}{choice(word)}_{str(choice(num).replace('[', '').replace(']', ''))}"
+            pre_load = f"{choice(word)}{choice(word)}_{str(choice(num)).replace('[', '').replace(']', '')}"
             if pre_load in generated_nickname:
                 continue
             else:
