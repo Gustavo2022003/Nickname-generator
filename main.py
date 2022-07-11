@@ -5,7 +5,7 @@ NSL_game = ['blaster', 'ghost', 'gamer', 'knight', 'bum', 'zero', 'super', 'air'
 NSL_social = [] #Nickname Suggestions List
 
 block_break = False # If true, the program will break out of the loop
-word_suggestions = []
+word_suggestions = [] # To store all the word suggestions
 
 while True: 
     if block_break: # If the user wants to break out of the loop
