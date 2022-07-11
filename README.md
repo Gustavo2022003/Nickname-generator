@@ -70,4 +70,4 @@ After those two steps the program will generate some nicknames based in what you
 
 ## Licenses
 
-<a href="https://choosealicense.com/licenses/mit/">MIT</a>
+<a target="_blank" href="https://choosealicense.com/licenses/mit/">MIT</a>
