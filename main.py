@@ -1,11 +1,11 @@
 import generator
 from random import randint, choice
 
-NSL_game = ['blaster', 'ghost', 'gamer', 'knight', 'bum', 'zero', 'super', 'air', 'storm', 'blade', 'neon', 'zipper'] #Nickname Suggestions List
+NSL_game = ['blaster', 'ghost', 'gamer', 'knight', 'bum', 'zero', 'super', 'air', 'storm', 'blade', 'neon', 'zipper', 'hollow'] #Nickname Suggestions List
 NSL_social = [] #Nickname Suggestions List
 
 block_break = False # If true, the program will break out of the loop
-word_suggestions = []
+word_suggestions = [] # To store all the word suggestions
 
 while True: 
     if block_break: # If the user wants to break out of the loop
