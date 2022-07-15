@@ -13,6 +13,7 @@
  - Admins take 24-48h to answer any question found on the <a href="https://github.com/Gustavo2022003/Nickname-generator/discussions">Dicussions</a> page. If you do not receive a response in time, please contact us through our organization: <a href="https://github.com/Syntax-Developers">here</a>.
  - Please, if you have something urgent to talk to us, visit our <a href="https://github.com/Syntax-Developers">Organization page</a> and contact us.
  - If you want to donate to this project, please <a href="https://github.com/Syntax-Developers">contact us</a>.
+ - Your feedback is important to us!
  
  
  ## Summary
