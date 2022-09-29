@@ -91,7 +91,7 @@ After those two steps the program will generate some nicknames based in what you
 
 > Operatioal System: Linux Ubuntu 22.04 LTS
 
-> RAM: 8 GB DDR4
+> RAM: 16 GB DDR4
 
 > Processor: Intel Core i5-10400F
 
