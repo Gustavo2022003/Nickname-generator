@@ -1,7 +1,7 @@
 from random import choice, randint
 
 def generator_nickname(NSL_game, word, num):
-    generated_nickname = []
+    generated_nickname = [word]
 
     if len(word) == 0 and len(num) == 0: # if the user doesn't want to add any words or numbers
         count = 0
