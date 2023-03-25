@@ -29,7 +29,11 @@ def generator_nickname(NSL_game, word, num, total=10):
         count = 0
         while count < total:
             count += 1
-            pre_load = f"{choice(NSL_game)}{choice(word)}_{randint(0, 999)}"
+            random_number = randint(0,1)
+            if random_number == 1:
+                pre_load = f"{choice(NSL_game)}{choice(word)}_{randint(0, 999)}"
+            else:
+                pre_load = f"{choice(word)}{choice(NSL_game)}_{randint(0, 999)}"
             if pre_load in generated_nickname:
                 continue
             else:
