@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/Version-v0.1alpha-blueviolet?style=flat-square">
+<img src="https://img.shields.io/badge/Version-v2.0-blueviolet?style=flat-square">
 
 <p>
  <img style="height: 40px" src="img/custombadge.svg">
