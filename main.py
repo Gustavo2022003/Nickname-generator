@@ -32,8 +32,8 @@ while True:
     if block_break:  # If the user wants to break out of the loop
         break
     try:
-        user_input = input("\nWould you like to suggest a specific word?\nYes or No: ")
-        if user_input == 'yes' or user_input == 'Yes' or user_input == 'y' or user_input == 'Y':
+        user_input = input("\nWould you like to suggest a specific word?\nYes or No: ").lower().strip()
+        if user_input == 'yes' or user_input == 'y':
             try:
                 specific_word = str(input("Please type the word:\n"))
                 # Append the word to the list
@@ -41,8 +41,8 @@ while True:
             except ValueError:
                 print("Please enter a valid word.")
             while True:
-                user_input = input("Would you like to add another word?\nYes or No: ")
-                if user_input == 'yes' or user_input == 'Yes' or user_input == 'y' or user_input == 'Y':
+                user_input = input("Would you like to add another word?\nYes or No: ").lower().strip()
+                if user_input == 'yes' or user_input == 'y':
                     specific_word = input("Please type the word:\n")
                     if user_input in word_suggestions:
                         print("This word is already in the list.")
@@ -52,7 +52,7 @@ while True:
                     # If the user doesn't want to add another word, the program will break out of the loop
                     block_break = True
                     break
-        elif user_input == 'no' or user_input == 'No' or user_input == 'n' or user_input == 'N':
+        elif user_input == 'no' or user_input == 'n':
             print()  # Print a blank line
             break
         else:
@@ -70,8 +70,8 @@ while True:
         break
     try:
         user_input_num = input(
-            "Would you like to add some numbers?\nYes or No: ")
-        if user_input_num == 'yes' or user_input_num == 'Yes' or user_input_num == 'y' or user_input_num == 'Y':
+            "Would you like to add some numbers?\nYes or No: ").lower().strip()
+        if user_input_num == 'yes' or user_input_num == 'y':
 
             try:
                 # input number of suggestions
@@ -83,8 +83,8 @@ while True:
 
             while True:  # loop until user input is valid
                 user_input = input(
-                    "Would you like to add more numbers?\nYes or No: ")
-                if user_input == 'yes' or user_input == 'Yes' or user_input == 'y' or user_input == 'Y':
+                    "Would you like to add more numbers?\nYes or No: ").lower().strip()
+                if user_input == 'yes' or user_input == 'y':
                     try:
                         num_input = int(input("Please type the numbers:\n"))
                         if num_input in num_suggestions:
@@ -93,12 +93,12 @@ while True:
                             num_suggestions.append(num_input)
                     except ValueError:
                         print("Error - unexpected input")
-                if user_input == 'no' or user_input == 'No' or user_input == 'n' or user_input == 'N':
+                if user_input == 'no' or user_input == 'n':
                     # If the user doesn't want to add another number, the program will break out of the loop
                     block_break = True
                     break
 
-        elif user_input_num == 'no' or user_input_num == 'No' or user_input_num == 'n' or user_input_num == 'N':
+        elif user_input_num == 'no' or user_input_num == 'n':
             print()
             break
     except ValueError:
